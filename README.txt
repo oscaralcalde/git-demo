@@ -1,3 +1,7 @@
-#Demo Git Repository
+#Demo git Repository	
 
-this is the first file in this repo.
+This is the first file in this rep
+
+##Ipsum below
+
+bla bla bla
